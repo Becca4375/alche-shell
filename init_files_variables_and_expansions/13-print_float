@@ -1,2 +1,2 @@
 #!/bin/bash
-export NUM=$(printf "%.2f \n" 5.3695)
+printf "%.2f \n" 5.3695 $NUM
